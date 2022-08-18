@@ -1,0 +1,33 @@
+{
+  "name": "demo_crash_expo45_android12_v2",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@pixi/constants": "^6.3.2",
+    "@pixi/core": "^6.3.2",
+    "@pixi/extensions": "^6.5.1",
+    "@pixi/filter-alpha": "^6.3.2",
+    "@pixi/filter-blur": "^6.3.2",
+    "@pixi/math": "^6.3.2",
+    "@pixi/runner": "^6.3.2",
+    "@pixi/settings": "^6.3.2",
+    "@pixi/ticker": "^6.3.2",
+    "@pixi/utils": "^6.3.2",
+    "expo": "^45.0.3",
+    "expo-gl": "~11.3.0",
+    "expo-pixi": "^2.1.0",
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
